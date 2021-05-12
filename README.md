@@ -19,3 +19,8 @@ Tất cả những ai có nhu cầu tìm hiểu hoặc chia sẻ các kiến th�
 
 # Mô hình quan hệ thực thể
 ![Mô hình quan hệ thực thể](ERD.png)
+
+Heroku: https://bloguet.herokuapp.com/
+Tài khoản: test
+Mật khẩu: 123
+
